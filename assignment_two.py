@@ -21,7 +21,7 @@ print("Funny, I am", ageoverage, "times older than you.")
 # Find out the type of the user's dream house
 house = input("What would be your dream house?")
 # Reply with interest in the house
-print("A " + house + " is a very good choice.")
+print(house + " is a very good choice.")
 # Find out the cost of the house
 cost = input("So, how much would this nice house cost?")
 # Reply with surprise
