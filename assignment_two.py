@@ -36,7 +36,7 @@ mpymt = (((float(rate) / 100) / 12) * float(cost)) / (1 - (1 + (float(rate) / 10
 # Write a formula to find out the total cost(car price + interest)
 totalcost = float(mpymt) * float(loan) * 12
 # Reply the user, telling the user the monthly payment of the house and the total cost of the house
-print(name + ", after my precise calculation, your monthly payment would be " + str(mpymt) + ",")
+print(name + ", after my calculation, your monthly payment would be " + str(mpymt) + ",")
 print("and your total cost to buy the " + house + "would be " + str(totalcost) + ".")
 # Say goodbye to the user")
 print("Ok. It has been my pleasure to meet you. I hope I can see you again, " + name + ". Goodbye.")
