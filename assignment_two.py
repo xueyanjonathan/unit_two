@@ -1,5 +1,6 @@
 # 9/20/2018
 # Jonathan Lin
+# Assignment Two
 # Creating a ChatBox using variables and functions
 
 # Get the user's name
